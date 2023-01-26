@@ -2,7 +2,7 @@
 R= Clone é clonar um repositório do github remoto para o github desktop.
 
 2 - O que é commit?
-R= Commit é uma alteração que fazemos no repositório.
+R= Commit é uma alteração que fazemos no repositório e efetivamos as alterações mandando para o repositório remoto. 
 
 3 - O que é um repositório?
 R= Repositório é uma pasta de arquivos no github.
