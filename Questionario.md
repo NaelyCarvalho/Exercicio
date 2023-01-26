@@ -15,3 +15,9 @@ R= Sofwtare de controle de versão.
 
 6 - O que é push?
 R= Enviar as informações que foram empacotadas para o repositório remoto.
+
+7 - O que é merge?
+R= Merge é fundir uma branch com a branch main.
+
+8 - O que branch?
+R= Branch é uma área restrita do repositório que permite fazermos alteraçãoes, sem alterar o projeto principal.
